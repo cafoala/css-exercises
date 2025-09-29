@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+  background-color: rgb(236, 130, 155);
+  font: 20px Verdana, DejaVu Sans, sans-serif;
+}
+
+#number-2 {
+  color: blue;
+  font: 32px;
+}
+
+#number-3 {
+  font: px;
+  color: orange
+}
+
+#number-4 {
+  background-color: rgb(135, 202, 135);
+  font: 24px;
+}
